@@ -1,0 +1,1 @@
+module.exports = SERVER_API_URL = "http://localhost:4000"
